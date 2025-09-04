@@ -1,1 +1,3 @@
-# data-mining-portfolio
+# Data Mining Portfolio
+
+A collection of data mining projects showcasing skills in extracting, analyzing, and visualizing insights from diverse datasets. This portfolio features web scraping (e.g., IPL 2025 match reports from iplt20.com), data preprocessing, and exploratory data analysis (EDA) using Python, BeautifulSoup, Pandas, and Matplotlib. Projects demonstrate real-world applications like web data extraction and structured data storage, with clear documentation and reproducible code. Explore the code, datasets, and results to see my journey in uncovering patterns through data mining! Contributions and feedback are welcome.
